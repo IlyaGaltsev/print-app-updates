@@ -1,4 +1,4 @@
 {
   "minRequiredVersion": "1.4.32",
-  "type": "modal"
+  "type": "silent"
 }
